@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1021687251921",
+    "project_id": "expensemanager-34025",
+    "storage_bucket": "expensemanager-34025.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021687251921:android:1aea0a8f7123fe903dd6f0",
+        "android_client_info": {
+          "package_name": "com.shakeeb.expensemanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021687251921-qg1gmi7119buh19nr27s0q8ggmhiv0it.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbMALwi_Ye6gqRMJ2C9ETQzSdZQZk_DLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021687251921-qg1gmi7119buh19nr27s0q8ggmhiv0it.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
