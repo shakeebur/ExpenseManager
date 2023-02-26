@@ -15,6 +15,8 @@ Securely store user data in Firebase Storage
 ### Prerequisites
 Android Studio
 Firebase account
+
+
 ##Installation
 Clone the repository to your local machine
 Open the project in Android Studio
