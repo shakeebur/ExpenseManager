@@ -17,7 +17,8 @@ Android Studio
 Firebase account
 
 
-##Installation
+## Installation
+
 Clone the repository to your local machine
 Open the project in Android Studio
 Connect the app to your Firebase project by following the instructions provided by Firebase
