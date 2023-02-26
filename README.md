@@ -3,7 +3,7 @@
 ExpenseManager is an Android app developed in Android Studio that allows users to track their income and expenses. The app uses Firebase Storage to store user data securely in the cloud. Additionally, the app provides a visual representation of the user's income and expenses via a pie chart displayed on the user interface.
 # Screen:
 
-<img src="https://i.imgur.com/FsNghJr.png" alt="Alt Text" width="200" height="410"> .
+<img src="https://i.imgur.com/FsNghJr.png" alt="Alt Text" width="225" height="410"> .
 ## Features
 Add income and expenses
 View a list of all income and expenses entered
