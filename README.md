@@ -22,6 +22,8 @@ Clone the repository to your local machine
 Open the project in Android Studio
 Connect the app to your Firebase project by following the instructions provided by Firebase
 Run the app on an Android emulator or physical device
+
+
 ## Usage
 On the home screen, select "Add Income" or "Add Expense" to enter a new transaction.
 Enter the transaction details, including the amount and category.
